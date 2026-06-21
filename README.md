@@ -149,6 +149,6 @@ This project helped me strengthen my understanding of:
 
 Ankit Yadav
 
-GitHub: https://github.com/<your-github-username>
+GitHub: https://github.com/Srvankit
 
-LinkedIn: https://linkedin.com/in/<your-linkedin-username>
+LinkedIn: www.linkedin.com/in/ankit-yadav-a55814331
